@@ -15,7 +15,7 @@ Technothlon is an international school championship organized by the student fra
 
 <h2>Who are we?</h2>
 
-We are a team of 5 - [Raunak](https://github.com/RaunakAgarwal18), [Akshat](https://github.com/Akshat2403), [Prince](https://github.com/Prince-9-9), [Geet](https://github.com/Geet-manik) and [Mokshith]() , all pursuing their B.Tech from Indian Institute of Technology, Guwahati.
+We are a team of 5 - [Raunak](https://github.com/RaunakAgarwal18), [Akshat](https://github.com/Akshat2403), [Prince](https://github.com/Prince-9-9), [Geet](https://github.com/Geet-manik) and [Mokshith](https://github.com/Raghuveer22) , all pursuing their B.Tech from Indian Institute of Technology, Guwahati.
 
 <h2>What did we build this with?</h2>
 <img src = "https://i.ibb.co/N7wb0Gc/Untitled-design-1.png">
