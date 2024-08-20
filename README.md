@@ -21,6 +21,5 @@ We are a team of 5 - [Raunak](https://github.com/RaunakAgarwal18), [Akshat](http
 <img src = "https://i.ibb.co/N7wb0Gc/Untitled-design-1.png">
 We used JavaScript, along with basic HTML and CSS, for the front-end and Django for the backend.<br><br>
 
-<b>The game can be played on</b> "https://mazehub.techniche.org.in/"<br>
 Credits: <b>Team Technothlon</b>
                  
